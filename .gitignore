@@ -1,3 +1,8 @@
 *.csv
 *.pkl
 .venv*
+__pycache__/
+.ipynb_checkpoints/
+mlflow/mlruns.db
+mlflow/mlartifacts/
+mlflow/mlruns/
