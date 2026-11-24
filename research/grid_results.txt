@@ -1,0 +1,13 @@
+                                                                                           params  mean_test_score  rank_test_score
+    {'regression__max_depth': 5, 'regression__max_features': 0.5, 'regression__n_estimators': 50}        -0.944225               11
+   {'regression__max_depth': 5, 'regression__max_features': 0.5, 'regression__n_estimators': 100}        -0.960801               12
+    {'regression__max_depth': 5, 'regression__max_features': 1.0, 'regression__n_estimators': 50}        -0.747494                5
+   {'regression__max_depth': 5, 'regression__max_features': 1.0, 'regression__n_estimators': 100}        -0.761171                6
+   {'regression__max_depth': 10, 'regression__max_features': 0.5, 'regression__n_estimators': 50}        -0.879605               10
+  {'regression__max_depth': 10, 'regression__max_features': 0.5, 'regression__n_estimators': 100}        -0.856829                8
+   {'regression__max_depth': 10, 'regression__max_features': 1.0, 'regression__n_estimators': 50}        -0.714980                2
+  {'regression__max_depth': 10, 'regression__max_features': 1.0, 'regression__n_estimators': 100}        -0.709174                1
+ {'regression__max_depth': None, 'regression__max_features': 0.5, 'regression__n_estimators': 50}        -0.859950                9
+{'regression__max_depth': None, 'regression__max_features': 0.5, 'regression__n_estimators': 100}        -0.843182                7
+ {'regression__max_depth': None, 'regression__max_features': 1.0, 'regression__n_estimators': 50}        -0.715509                3
+{'regression__max_depth': None, 'regression__max_features': 1.0, 'regression__n_estimators': 100}        -0.719286                4

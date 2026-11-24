@@ -1,0 +1,8 @@
+num__Year
+num__Present_Price
+num__Driven_kms
+cat__Fuel_Type
+cat__Transmission
+poly__Present_Price^2
+poly__Present_Price Driven_kms
+bins__Year_2.0
